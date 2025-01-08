@@ -1,0 +1,274 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\girman\\source\\repos\\Dependency Injection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69AF1EEC-181F-4031-865D-4C29092389C3}|Dependency Injection\\Dependency Injection.csproj|c:\\users\\girman\\source\\repos\\dependency injection\\dependency injection\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69AF1EEC-181F-4031-865D-4C29092389C3}|Dependency Injection\\Dependency Injection.csproj|solutionrelative:dependency injection\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69AF1EEC-181F-4031-865D-4C29092389C3}|Dependency Injection\\Dependency Injection.csproj|c:\\users\\girman\\source\\repos\\dependency injection\\dependency injection\\services\\nameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69AF1EEC-181F-4031-865D-4C29092389C3}|Dependency Injection\\Dependency Injection.csproj|solutionrelative:dependency injection\\services\\nameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69AF1EEC-181F-4031-865D-4C29092389C3}|Dependency Injection\\Dependency Injection.csproj|c:\\users\\girman\\source\\repos\\dependency injection\\dependency injection\\services\\testservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69AF1EEC-181F-4031-865D-4C29092389C3}|Dependency Injection\\Dependency Injection.csproj|solutionrelative:dependency injection\\services\\testservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69AF1EEC-181F-4031-865D-4C29092389C3}|Dependency Injection\\Dependency Injection.csproj|c:\\users\\girman\\source\\repos\\dependency injection\\dependency injection\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69AF1EEC-181F-4031-865D-4C29092389C3}|Dependency Injection\\Dependency Injection.csproj|solutionrelative:dependency injection\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69AF1EEC-181F-4031-865D-4C29092389C3}|Dependency Injection\\Dependency Injection.csproj|c:\\users\\girman\\source\\repos\\dependency injection\\dependency injection\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69AF1EEC-181F-4031-865D-4C29092389C3}|Dependency Injection\\Dependency Injection.csproj|solutionrelative:dependency injection\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69AF1EEC-181F-4031-865D-4C29092389C3}|Dependency Injection\\Dependency Injection.csproj|c:\\users\\girman\\source\\repos\\dependency injection\\dependency injection\\views\\test\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69AF1EEC-181F-4031-865D-4C29092389C3}|Dependency Injection\\Dependency Injection.csproj|solutionrelative:dependency injection\\views\\test\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69AF1EEC-181F-4031-865D-4C29092389C3}|Dependency Injection\\Dependency Injection.csproj|c:\\users\\girman\\source\\repos\\dependency injection\\dependency injection\\services\\rollservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69AF1EEC-181F-4031-865D-4C29092389C3}|Dependency Injection\\Dependency Injection.csproj|solutionrelative:dependency injection\\services\\rollservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69AF1EEC-181F-4031-865D-4C29092389C3}|Dependency Injection\\Dependency Injection.csproj|c:\\users\\girman\\source\\repos\\dependency injection\\dependency injection\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69AF1EEC-181F-4031-865D-4C29092389C3}|Dependency Injection\\Dependency Injection.csproj|solutionrelative:dependency injection\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69AF1EEC-181F-4031-865D-4C29092389C3}|Dependency Injection\\Dependency Injection.csproj|c:\\users\\girman\\source\\repos\\dependency injection\\dependency injection\\services\\irollservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69AF1EEC-181F-4031-865D-4C29092389C3}|Dependency Injection\\Dependency Injection.csproj|solutionrelative:dependency injection\\services\\irollservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69AF1EEC-181F-4031-865D-4C29092389C3}|Dependency Injection\\Dependency Injection.csproj|c:\\users\\girman\\source\\repos\\dependency injection\\dependency injection\\services\\ageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69AF1EEC-181F-4031-865D-4C29092389C3}|Dependency Injection\\Dependency Injection.csproj|solutionrelative:dependency injection\\services\\ageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69AF1EEC-181F-4031-865D-4C29092389C3}|Dependency Injection\\Dependency Injection.csproj|c:\\users\\girman\\source\\repos\\dependency injection\\dependency injection\\services\\iageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69AF1EEC-181F-4031-865D-4C29092389C3}|Dependency Injection\\Dependency Injection.csproj|solutionrelative:dependency injection\\services\\iageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69AF1EEC-181F-4031-865D-4C29092389C3}|Dependency Injection\\Dependency Injection.csproj|c:\\users\\girman\\source\\repos\\dependency injection\\dependency injection\\services\\inameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69AF1EEC-181F-4031-865D-4C29092389C3}|Dependency Injection\\Dependency Injection.csproj|solutionrelative:dependency injection\\services\\inameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69AF1EEC-181F-4031-865D-4C29092389C3}|Dependency Injection\\Dependency Injection.csproj|c:\\users\\girman\\source\\repos\\dependency injection\\dependency injection\\services\\ihomeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69AF1EEC-181F-4031-865D-4C29092389C3}|Dependency Injection\\Dependency Injection.csproj|solutionrelative:dependency injection\\services\\ihomeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69AF1EEC-181F-4031-865D-4C29092389C3}|Dependency Injection\\Dependency Injection.csproj|c:\\users\\girman\\source\\repos\\dependency injection\\dependency injection\\services\\homeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69AF1EEC-181F-4031-865D-4C29092389C3}|Dependency Injection\\Dependency Injection.csproj|solutionrelative:dependency injection\\services\\homeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69AF1EEC-181F-4031-865D-4C29092389C3}|Dependency Injection\\Dependency Injection.csproj|c:\\users\\girman\\source\\repos\\dependency injection\\dependency injection\\services\\itestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69AF1EEC-181F-4031-865D-4C29092389C3}|Dependency Injection\\Dependency Injection.csproj|solutionrelative:dependency injection\\services\\itestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\girman\\source\\repos\\Dependency Injection\\Dependency Injection\\Startup.cs",
+              "RelativeDocumentMoniker": "Dependency Injection\\Startup.cs",
+              "ToolTip": "C:\\Users\\girman\\source\\repos\\Dependency Injection\\Dependency Injection\\Startup.cs",
+              "RelativeToolTip": "Dependency Injection\\Startup.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T05:09:38.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\girman\\source\\repos\\Dependency Injection\\Dependency Injection\\Views\\Test\\Index.cshtml",
+              "RelativeDocumentMoniker": "Dependency Injection\\Views\\Test\\Index.cshtml",
+              "ToolTip": "C:\\Users\\girman\\source\\repos\\Dependency Injection\\Dependency Injection\\Views\\Test\\Index.cshtml",
+              "RelativeToolTip": "Dependency Injection\\Views\\Test\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T01:29:51.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\Users\\girman\\source\\repos\\Dependency Injection\\Dependency Injection\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "Dependency Injection\\Controllers\\TestController.cs",
+              "ToolTip": "C:\\Users\\girman\\source\\repos\\Dependency Injection\\Dependency Injection\\Controllers\\TestController.cs",
+              "RelativeToolTip": "Dependency Injection\\Controllers\\TestController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T01:25:18.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestService.cs",
+              "DocumentMoniker": "C:\\Users\\girman\\source\\repos\\Dependency Injection\\Dependency Injection\\Services\\TestService.cs",
+              "RelativeDocumentMoniker": "Dependency Injection\\Services\\TestService.cs",
+              "ToolTip": "C:\\Users\\girman\\source\\repos\\Dependency Injection\\Dependency Injection\\Services\\TestService.cs",
+              "RelativeToolTip": "Dependency Injection\\Services\\TestService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T01:25:42.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRollService.cs",
+              "DocumentMoniker": "C:\\Users\\girman\\source\\repos\\Dependency Injection\\Dependency Injection\\Services\\IRollService.cs",
+              "RelativeDocumentMoniker": "Dependency Injection\\Services\\IRollService.cs",
+              "ToolTip": "C:\\Users\\girman\\source\\repos\\Dependency Injection\\Dependency Injection\\Services\\IRollService.cs",
+              "RelativeToolTip": "Dependency Injection\\Services\\IRollService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T14:46:43.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NameService.cs",
+              "DocumentMoniker": "C:\\Users\\girman\\source\\repos\\Dependency Injection\\Dependency Injection\\Services\\NameService.cs",
+              "RelativeDocumentMoniker": "Dependency Injection\\Services\\NameService.cs",
+              "ToolTip": "C:\\Users\\girman\\source\\repos\\Dependency Injection\\Dependency Injection\\Services\\NameService.cs",
+              "RelativeToolTip": "Dependency Injection\\Services\\NameService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T14:43:20.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\girman\\source\\repos\\Dependency Injection\\Dependency Injection\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Dependency Injection\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\girman\\source\\repos\\Dependency Injection\\Dependency Injection\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Dependency Injection\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAkwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T01:15:42.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AgeService.cs",
+              "DocumentMoniker": "C:\\Users\\girman\\source\\repos\\Dependency Injection\\Dependency Injection\\Services\\AgeService.cs",
+              "RelativeDocumentMoniker": "Dependency Injection\\Services\\AgeService.cs",
+              "ToolTip": "C:\\Users\\girman\\source\\repos\\Dependency Injection\\Dependency Injection\\Services\\AgeService.cs",
+              "RelativeToolTip": "Dependency Injection\\Services\\AgeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T14:45:24.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RollService.cs",
+              "DocumentMoniker": "C:\\Users\\girman\\source\\repos\\Dependency Injection\\Dependency Injection\\Services\\RollService.cs",
+              "RelativeDocumentMoniker": "Dependency Injection\\Services\\RollService.cs",
+              "ToolTip": "C:\\Users\\girman\\source\\repos\\Dependency Injection\\Dependency Injection\\Services\\RollService.cs",
+              "RelativeToolTip": "Dependency Injection\\Services\\RollService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T14:46:33.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\girman\\source\\repos\\Dependency Injection\\Dependency Injection\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Dependency Injection\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\girman\\source\\repos\\Dependency Injection\\Dependency Injection\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Dependency Injection\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T01:29:55.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IAgeService.cs",
+              "DocumentMoniker": "C:\\Users\\girman\\source\\repos\\Dependency Injection\\Dependency Injection\\Services\\IAgeService.cs",
+              "RelativeDocumentMoniker": "Dependency Injection\\Services\\IAgeService.cs",
+              "ToolTip": "C:\\Users\\girman\\source\\repos\\Dependency Injection\\Dependency Injection\\Services\\IAgeService.cs",
+              "RelativeToolTip": "Dependency Injection\\Services\\IAgeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T14:45:32.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "INameService.cs",
+              "DocumentMoniker": "C:\\Users\\girman\\source\\repos\\Dependency Injection\\Dependency Injection\\Services\\INameService.cs",
+              "RelativeDocumentMoniker": "Dependency Injection\\Services\\INameService.cs",
+              "ToolTip": "C:\\Users\\girman\\source\\repos\\Dependency Injection\\Dependency Injection\\Services\\INameService.cs",
+              "RelativeToolTip": "Dependency Injection\\Services\\INameService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T14:43:30.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ITestService.cs",
+              "DocumentMoniker": "C:\\Users\\girman\\source\\repos\\Dependency Injection\\Dependency Injection\\Services\\ITestService.cs",
+              "RelativeDocumentMoniker": "Dependency Injection\\Services\\ITestService.cs",
+              "ToolTip": "C:\\Users\\girman\\source\\repos\\Dependency Injection\\Dependency Injection\\Services\\ITestService.cs",
+              "RelativeToolTip": "Dependency Injection\\Services\\ITestService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T01:26:09.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeService.cs",
+              "DocumentMoniker": "C:\\Users\\girman\\source\\repos\\Dependency Injection\\Dependency Injection\\Services\\HomeService.cs",
+              "RelativeDocumentMoniker": "Dependency Injection\\Services\\HomeService.cs",
+              "ToolTip": "C:\\Users\\girman\\source\\repos\\Dependency Injection\\Dependency Injection\\Services\\HomeService.cs",
+              "RelativeToolTip": "Dependency Injection\\Services\\HomeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T05:09:34.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IHomeService.cs",
+              "DocumentMoniker": "C:\\Users\\girman\\source\\repos\\Dependency Injection\\Dependency Injection\\Services\\IHomeService.cs",
+              "RelativeDocumentMoniker": "Dependency Injection\\Services\\IHomeService.cs",
+              "ToolTip": "C:\\Users\\girman\\source\\repos\\Dependency Injection\\Dependency Injection\\Services\\IHomeService.cs",
+              "RelativeToolTip": "Dependency Injection\\Services\\IHomeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T05:09:21.69Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

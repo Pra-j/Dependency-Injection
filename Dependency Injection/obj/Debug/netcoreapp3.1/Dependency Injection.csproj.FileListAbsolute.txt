@@ -1,0 +1,41 @@
+C:\Users\girman\source\repos\Dependency Injection\Dependency Injection\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\girman\source\repos\Dependency Injection\Dependency Injection\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\girman\source\repos\Dependency Injection\Dependency Injection\bin\Debug\netcoreapp3.1\Dependency Injection.exe
+C:\Users\girman\source\repos\Dependency Injection\Dependency Injection\bin\Debug\netcoreapp3.1\Dependency Injection.deps.json
+C:\Users\girman\source\repos\Dependency Injection\Dependency Injection\bin\Debug\netcoreapp3.1\Dependency Injection.runtimeconfig.json
+C:\Users\girman\source\repos\Dependency Injection\Dependency Injection\bin\Debug\netcoreapp3.1\Dependency Injection.runtimeconfig.dev.json
+C:\Users\girman\source\repos\Dependency Injection\Dependency Injection\bin\Debug\netcoreapp3.1\Dependency Injection.dll
+C:\Users\girman\source\repos\Dependency Injection\Dependency Injection\bin\Debug\netcoreapp3.1\Dependency Injection.pdb
+C:\Users\girman\source\repos\Dependency Injection\Dependency Injection\bin\Debug\netcoreapp3.1\Dependency Injection.Views.dll
+C:\Users\girman\source\repos\Dependency Injection\Dependency Injection\bin\Debug\netcoreapp3.1\Dependency Injection.Views.pdb
+C:\Users\girman\source\repos\Dependency Injection\Dependency Injection\obj\Debug\netcoreapp3.1\Dependency Injection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\girman\source\repos\Dependency Injection\Dependency Injection\obj\Debug\netcoreapp3.1\Dependency Injection.AssemblyInfoInputs.cache
+C:\Users\girman\source\repos\Dependency Injection\Dependency Injection\obj\Debug\netcoreapp3.1\Dependency Injection.AssemblyInfo.cs
+C:\Users\girman\source\repos\Dependency Injection\Dependency Injection\obj\Debug\netcoreapp3.1\Dependency Injection.csproj.CoreCompileInputs.cache
+C:\Users\girman\source\repos\Dependency Injection\Dependency Injection\obj\Debug\netcoreapp3.1\Dependency Injection.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\girman\source\repos\Dependency Injection\Dependency Injection\obj\Debug\netcoreapp3.1\Dependency Injection.RazorAssemblyInfo.cache
+C:\Users\girman\source\repos\Dependency Injection\Dependency Injection\obj\Debug\netcoreapp3.1\Dependency Injection.RazorAssemblyInfo.cs
+C:\Users\girman\source\repos\Dependency Injection\Dependency Injection\obj\Debug\netcoreapp3.1\Dependency Injection.TagHelpers.input.cache
+C:\Users\girman\source\repos\Dependency Injection\Dependency Injection\obj\Debug\netcoreapp3.1\Dependency Injection.TagHelpers.output.cache
+C:\Users\girman\source\repos\Dependency Injection\Dependency Injection\obj\Debug\netcoreapp3.1\Dependency Injection.RazorCoreGenerate.cache
+C:\Users\girman\source\repos\Dependency Injection\Dependency Injection\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\girman\source\repos\Dependency Injection\Dependency Injection\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\girman\source\repos\Dependency Injection\Dependency Injection\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\girman\source\repos\Dependency Injection\Dependency Injection\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\girman\source\repos\Dependency Injection\Dependency Injection\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\girman\source\repos\Dependency Injection\Dependency Injection\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\girman\source\repos\Dependency Injection\Dependency Injection\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\girman\source\repos\Dependency Injection\Dependency Injection\obj\Debug\netcoreapp3.1\Dependency Injection.RazorTargetAssemblyInfo.cache
+C:\Users\girman\source\repos\Dependency Injection\Dependency Injection\obj\Debug\netcoreapp3.1\Dependency Injection.RazorTargetAssemblyInfo.cs
+C:\Users\girman\source\repos\Dependency Injection\Dependency Injection\obj\Debug\netcoreapp3.1\Dependency Injection.Views.pdb
+C:\Users\girman\source\repos\Dependency Injection\Dependency Injection\obj\Debug\netcoreapp3.1\staticwebassets\Dependency Injection.StaticWebAssets.Manifest.cache
+C:\Users\girman\source\repos\Dependency Injection\Dependency Injection\obj\Debug\netcoreapp3.1\staticwebassets\Dependency Injection.StaticWebAssets.Pack.cache
+C:\Users\girman\source\repos\Dependency Injection\Dependency Injection\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Dependency Injection.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\girman\source\repos\Dependency Injection\Dependency Injection\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Dependency Injection.props
+C:\Users\girman\source\repos\Dependency Injection\Dependency Injection\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Dependency Injection.props
+C:\Users\girman\source\repos\Dependency Injection\Dependency Injection\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Dependency Injection.props
+C:\Users\girman\source\repos\Dependency Injection\Dependency Injection\obj\Debug\netcoreapp3.1\Dependency Injection.dll
+C:\Users\girman\source\repos\Dependency Injection\Dependency Injection\obj\Debug\netcoreapp3.1\Dependency Injection.pdb
+C:\Users\girman\source\repos\Dependency Injection\Dependency Injection\obj\Debug\netcoreapp3.1\Dependency Injection.genruntimeconfig.cache
+C:\Users\girman\source\repos\Dependency Injection\Dependency Injection\obj\Debug\netcoreapp3.1\Dependen.046D97CA.Up2Date
+C:\Users\girman\source\repos\Dependency Injection\Dependency Injection\obj\Debug\netcoreapp3.1\Razor\Views\Test\Index.cshtml.g.cs
