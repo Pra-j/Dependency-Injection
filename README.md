@@ -10,14 +10,8 @@ To get started with this project, follow these steps:
    Run the following command to clone the project to your local machine:  
    ```bash
    git clone https://github.com/Pra-j/Dependency-Injection.git
-   ```
-   
-3. **After cloning, navigate into the project directory:**
-    ```bash
-    cd dependency-injection-project
-    ```
-    
-4. **Open the Project in Your Preferred IDE**
+   ```    
+4. **Open Dependency Injection.sln file in Your Preferred IDE**
 ---
 
 
